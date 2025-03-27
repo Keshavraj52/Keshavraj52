@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshavraj Pore</h1>
 <h3 align="center">🚀 Data Enthusiast | Problem Solver 🔍 💡 Passionate about Data Analytics, Databases, and Optimization 🎥 Teaching complex topics on YouTube 📊 💻 Exploring LeetCode & Making Projects 📚 Always learning, always sharing! ✨ Turning data into insights, one query at a time!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavraj52&label=Profile%20views&color=0e75b6&style=flat" alt="keshavraj52" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavraj52" alt="keshavraj52" /></a> </p>
 
 - 🔭 I’m currently working on **Creating insightful data visualizations and dashboards 📊 Solving LeetCode problems related to SQL & Data Structures 📌 Enhancing my YouTube content on data-related topics 🎥**
 

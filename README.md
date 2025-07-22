@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshavraj Pore</h1>
-<h3 align="center">🚀 Data Enthusiast | Problem Solver 🔍 💡 Passionate about Data Analytics, Databases, and Optimization 🎥 Teaching complex topics on YouTube 📊 💻 Exploring LeetCode & Making Projects 📚 Always learning, always sharing! ✨ Turning data into insights, one query at a time!</h3>
+<h3 align="center">🚀 Data Enthusiast | Problem Solver | MEAN Stack Dev. 🔍 💡 Passionate about Data Analytics, Databases, and Optimization 🎥 Teaching complex topics on YouTube 📊 💻 Exploring LeetCode & Making Projects 📚 Always learning, always sharing! ✨ Turning data into insights, one query at a time!</h3>
 
 
 

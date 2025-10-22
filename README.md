@@ -1,7 +1,6 @@
 [![An image of @keshavraj_52's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshavraj_52)](https://holopin.io/@keshavraj_52)
 
 
-
 <!-- Animated Header with Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%91%8B+Hi%2C+I'm+Keshavraj+Pore;%F0%9F%9A%80+Data+Analyst+%7C+Problem+Solver;%F0%9F%92%BB+Developer" alt="Typing SVG" />
